@@ -3,9 +3,7 @@ public class Main {
 
         Auxiliar auxiliar = new Auxiliar();
 
-        boolean result = false;
-        result = auxiliar.calc();
+        auxiliar.calc(9689477);
 
-        System.out.println("Final Result: " + auxiliar.getResult());
     }
 }
