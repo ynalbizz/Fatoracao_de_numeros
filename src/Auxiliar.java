@@ -1,12 +1,13 @@
 import java.util.ArrayList;
 import java.util.List;
 public class Auxiliar {
+    List fatores = new ArrayList();
+    List indices = new ArrayList();
 
     Auxiliar(){
     }
     public void calc(long x) {
-        List fatores = new ArrayList();
-        List indices = new ArrayList();
+
         int n = 2;
         while (x != 1) {
 
@@ -20,12 +21,29 @@ public class Auxiliar {
                 x = x / n;
                 indiceAtual += 1;
             }
-            fatores.add(n);
+            this.fatores.add(n);
             n++;
-            indices.add(indiceAtual);
-            System.out.println(fatores);
-            System.out.println(indices);
+            this.indices.add(indiceAtual);
 
         }
     }
+
+
+    public List getFatores() {
+        return fatores;
+    }
+
+    public List getIndices() {
+        return indices;
+    }
+public void getResults() {
+    int i;
+    for (i = 0; i < fatores.size() && i < indices.size(); i++){
+        System.out.println(fatores.get(i)+"^"+indices.get(i));
+
+    }
+
+
+}
+
 }
