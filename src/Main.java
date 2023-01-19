@@ -3,8 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         Auxiliar aux = new Auxiliar();
-
-        String numString = JOptionPane.showInputDialog("title");
+        String numString = JOptionPane.showInputDialog("Input a NUMBER");
         long num = Integer.parseInt(numString);
         //long num = 13195;
         aux.calc(num);
