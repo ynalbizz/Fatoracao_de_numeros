@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d1889efb-2248-403b-875c-f90b80d3dc3a" name="Changes" comment="Fatoração de numeros :P&#10;Written by: myself&#10;Reviewed-by: nobody&#10;&#10;Version 2.0">
       <change afterPath="$PROJECT_DIR$/src/Fator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Auxiliar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculaFatores.java" afterDir="false" />
+=======
+    <list default="true" id="d1889efb-2248-403b-875c-f90b80d3dc3a" name="Changes" comment="Project Euler Problem 003(teoricly resolved)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Auxiliar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Auxiliar.java" afterDir="false" />
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +21,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExportToHTMLSettings">
     <option name="printScope" value="1" />
     <option name="PRINT_LINE_NUMBERS" value="true" />
     <option name="OPEN_IN_BROWSER" value="true" />
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
+=======
+>>>>>>> master
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -28,6 +37,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="master" />
   </component>
@@ -53,6 +63,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/CalculaFatores.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+=======
+>>>>>>> master
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,6 +78,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+<<<<<<< HEAD
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -87,6 +100,14 @@
       </list>
     </recent_temporary>
   </component>
+=======
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> master
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674065644116</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="Fatoração de numeros :P&#10;Written by: myself&#10;Reviewed-by: nobody&#10;&#10;Version 1.0">
       <created>1674094795018</created>
       <option name="number" value="00001" />
@@ -116,6 +138,28 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1674339206221</updated>
+=======
+    <task id="LOCAL-00001" summary="versão 1.0">
+      <created>1674065994913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674065994913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="versão 1.1">
+      <created>1674066199993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674066199993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project Euler Problem 003(teoricly resolved)">
+      <created>1674077356848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674077356848</updated>
+>>>>>>> master
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -151,9 +195,9 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="BEK_SORT_TYPE" value="1" />
-              <option name="FILTERS">
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
+<<<<<<< HEAD
                   <entry key="branch">
                     <value>
                       <list>
@@ -169,11 +213,39 @@
                   <entry key="Table.Git.CommitSignature.ColumnIdWidth" value="169" />
                 </map>
               </option>
+=======
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="BEK_SORT_TYPE" value="1" />
+>>>>>>> master
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="versão1.0" />
+    <MESSAGE value="versão 1.0" />
+    <MESSAGE value="versão 1.1" />
+    <MESSAGE value="Project Euler Problem 003(teoricly resolved)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Euler Problem 003(teoricly resolved)" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
