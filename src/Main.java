@@ -1,16 +1,12 @@
 import javax.swing.*;
-import java.util.Arrays;
+import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
-        Auxiliar aux = new Auxiliar();
         String numString = JOptionPane.showInputDialog("Input a NUMBER");
-        long num = Integer.parseInt(numString);
+        long num = Long.parseLong(numString);
         //long num = 13195;
-        aux.calc(num);
-        aux.getResults();
-        String[] result = aux.getResultArr();
-        JOptionPane.showMessageDialog(null, Arrays.toString(result));
+        ArrayList<Fator> fatores = CalculaFatores.calc(num);
 
-
+        JOptionPane.showMessageDialog(null, fatores);
     }
 }

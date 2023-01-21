@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1889efb-2248-403b-875c-f90b80d3dc3a" name="Changes" comment="Fatoração de numeros :P&#10;Written by: myself&#10;Reviewed-by: nobody&#10;&#10;Version 1.0">
-      <change afterPath="$PROJECT_DIR$/exportToHTML/Main.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Auxiliar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculaFatores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,13 @@
     <option name="PRINT_LINE_NUMBERS" value="true" />
     <option name="OPEN_IN_BROWSER" value="true" />
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="master" />
@@ -43,7 +51,10 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Auxiliar.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/CalculaFatores.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KVhQYZuiiqAnymgY6hKSlNVL4V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -92,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674094795018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fatoração de numeros :P&#10;Written by: myself&#10;Reviewed-by: nobody&#10;&#10;Version 1.0">
+      <created>1674097115540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674097115540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
